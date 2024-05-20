@@ -28,4 +28,4 @@
 
 ##
 
-![snake gif](https://github.com/Icaro-Godoi/Icaro-Godoi/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Icaro-Godoi/Icaro-Godoi/blob/output/github-contribution-grid-snake.gif) -->
