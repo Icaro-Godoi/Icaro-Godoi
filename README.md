@@ -1,9 +1,9 @@
 # Olá! Sou o Ícaro Godoi, bem vindo(a) ao meu GitHub ❤️  
 
-[![Ícaro's GitHub Stats-light](https://github-readme-stats.vercel.app/api?username=Icaro-Godoi&show_icons=true&locale=pt-br&theme=rose#gh-light-mode-only)](https://github.com/Icaro-Godoi/github-readme-stats#gh-light-mode-only)
-[![Ícaro's GitHub Stats-dark](https://github-readme-stats.vercel.app/api?username=Icaro-Godoi&show_icons=true&locale=pt-br&theme=omni#gh-dark-mode-only)](https://github.com/Icaro-Godoi/github-readme-stats#gh-dark-mode-only)
-[![Most Used Languages-light](https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Godoi&layout=compact&locale=pt-br&theme=rose#gh-light-mode-only)](https://github.com/Icaro-Godoi/github-readme-stats#gh-light-mode-only)
-[![Most Used Languages-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Godoi&layout=compact&locale=pt-br&theme=omni#gh-dark-mode-only)](https://github.com/Icaro-Godoi/github-readme-stats#gh-dark-mode-only)
+[![Ícaro's GitHub Stats-light](https://github-readme-stats-bay-two-10.vercel.app/api?username=Icaro-Godoi&show_icons=true&locale=pt-br&theme=rose#gh-light-mode-only)](https://github.com/Icaro-Godoi/github-readme-stats#gh-light-mode-only)
+[![Ícaro's GitHub Stats-dark](https://github-readme-stats-bay-two-10.vercel.app/api?username=Icaro-Godoi&show_icons=true&locale=pt-br&theme=omni#gh-dark-mode-only)](https://github.com/Icaro-Godoi/github-readme-stats#gh-dark-mode-only)
+[![Most Used Languages-light](https://github-readme-stats-bay-two-10.vercel.app/api/top-langs/?username=Icaro-Godoi&layout=compact&locale=pt-br&theme=rose#gh-light-mode-only)](https://github.com/Icaro-Godoi/github-readme-stats#gh-light-mode-only)
+[![Most Used Languages-dark](https://github-readme-stats-bay-two-10.vercel.app/api/top-langs/?username=Icaro-Godoi&layout=compact&locale=pt-br&theme=omni#gh-dark-mode-only)](https://github.com/Icaro-Godoi/github-readme-stats#gh-dark-mode-only)
 
 ## 
 
